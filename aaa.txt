@@ -1,10 +1,16 @@
 First commit for learning prospective.
 
-Another line of code added to commit .
+Another line of code added to commit.
 
+<<<<<<< HEAD
 Another line of commit for master branch .
 
 
 
 
 Final Audit
+=======
+Third line added in xmas branch .
+
+Another line of commit for master branch .
+>>>>>>> xmas
